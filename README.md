@@ -1,3 +1,5 @@
+<img src="github-header-image.png">
+
 ![👋 Hi, my name is Kedist Shegute](https://www.21kschool.com/ng/wp-content/uploads/sites/28/2024/02/Learn-to-code-4-reasons-why-your-child-should-do-it.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=kedistS&label=Profile%20views&color=0e75b6&style=flat)
@@ -26,3 +28,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kedistS&theme=react&hide_title=false&layout=compact&langs_count=10&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
+![kkk](./profile-3d-contrib/profile-night-view.svg)
