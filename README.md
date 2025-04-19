@@ -1,4 +1,4 @@
-<img src="github-header-image.png">
+<img src="github-header-image.png" width="1200px">
 
 ![👋 Hi, my name is Kedist Shegute](https://www.21kschool.com/ng/wp-content/uploads/sites/28/2024/02/Learn-to-code-4-reasons-why-your-child-should-do-it.png)
 
